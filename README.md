@@ -1,5 +1,4 @@
-<h1 align="center">Team Profile Generator Using Node.js</h1>
-<h2 align="center">Object-Oriented Programming (OOP) and Test-Driven Development (TDD) 👋</h2>
+<h1 align="center">Note Taking Application Using Node.js and express.js 👋</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/jpd61/team-profile-generator" />
@@ -14,8 +13,8 @@
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/jQuery-blue"  />
     <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-inquirer-red" >
-    <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
+    <img src="https://img.shields.io/badge/-express-red" >
+    <img src="https://img.shields.io/badge/-jest-lightgrey" />
     <img src="https://img.shields.io/badge/-json-orange" />
 </p>
 
