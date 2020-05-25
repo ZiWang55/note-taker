@@ -26,6 +26,8 @@
 
 ![Note Taker](./screenshot.PNG)
 
+Application deplouyed live on ![heroku](https://note-taker61.herokuapp.com/)
+
 ## User Story
 
 ```
