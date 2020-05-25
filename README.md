@@ -24,7 +24,7 @@
 
 💻 Below is the picture of the application:
 
-![Note Taker](./screenshot.png)
+![Note Taker](./screenshot.PNG)
 
 ## User Story
 
