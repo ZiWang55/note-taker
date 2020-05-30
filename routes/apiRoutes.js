@@ -17,15 +17,11 @@ module.exports = function (app) {
         let newNote = req.body;
         let lastId = 0;
         if (noteContents.length !== 0) {
-
             lastId = noteContents[noteContents.length - 1]["id"];
         }
 
         let newId = lastId + 1;
-
         newNote["id"] = newId;
-
-        console.log("Req.body:", req.body);
         noteContents.push(newNote);
 
         writeFileAsync("db/db.json", JSON.stringify(noteContents)).then(function () {
